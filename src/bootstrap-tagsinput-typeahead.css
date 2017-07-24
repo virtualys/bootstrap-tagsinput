@@ -5,7 +5,8 @@
 
 .twitter-typeahead .tt-hint
 {
-    display: none;
+/*    display: none;*/
+    color: #808080;
 }
 
 .tt-menu {
